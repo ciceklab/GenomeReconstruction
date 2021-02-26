@@ -1,0 +1,5 @@
+temp/
+src/results/
+src/test_sets/
+**/*.ipython_checkpoints
+
